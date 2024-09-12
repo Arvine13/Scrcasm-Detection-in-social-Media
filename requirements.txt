@@ -1,0 +1,11 @@
+tensorflow-gpu==2.2.0
+pandas
+nltk
+tqdm
+scikit-learn
+matplotlib
+seaborn
+prettytable
+pyqt5==5.14
+pycm
+numpy==1.19.5
